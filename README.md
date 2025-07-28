@@ -27,6 +27,6 @@ Motivated engineering student with a strong interest in web development technolo
 
 <div width="100%" align="center"><a href="https://github.com/SachiAnantJadhav/URBAN-DEPOT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachiAnantJadhav&repo=URBAN-DEPOT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SachiAnantJadhav/DR2S-milkcan-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachiAnantJadhav&repo=DR2S-milkcan-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+
 
 <div width="100%" align="center"><a href="https://github.com/SachiAnantJadhav/LawSight" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachiAnantJadhav&repo=LawSight&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
